@@ -1,7 +1,0 @@
-## Git 命令（终端依次输入）
-```bash
-git add .
-git commit -m "v1.0 当堂交付版本"
-git tag v1.0
-git push
-git push --tags
